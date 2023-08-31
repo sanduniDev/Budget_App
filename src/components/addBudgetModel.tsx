@@ -54,3 +54,5 @@ export default function AddBudgetModal({ show, handleClose }: AddBudgetModalProp
     </Modal>
   );
 }
+
+

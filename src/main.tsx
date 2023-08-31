@@ -7,6 +7,7 @@ import { BudgetsProvider } from "./contexts/BudgetContext.tsx"
 
 
 
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <BudgetsProvider>
